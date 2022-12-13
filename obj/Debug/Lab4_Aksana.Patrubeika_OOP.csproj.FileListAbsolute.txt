@@ -1,0 +1,8 @@
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\bin\Debug\Lab4_Aksana.Patrubeika_OOP.exe.config
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\bin\Debug\Lab4_Aksana.Patrubeika_OOP.exe
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\bin\Debug\Lab4_Aksana.Patrubeika_OOP.pdb
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\obj\Debug\Lab4_Aksana.Patrubeika_OOP.csproj.AssemblyReference.cache
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\obj\Debug\Lab4_Aksana.Patrubeika_OOP.csproj.SuggestedBindingRedirects.cache
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\obj\Debug\Lab4_Aksana.Patrubeika_OOP.csproj.CoreCompileInputs.cache
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\obj\Debug\Lab4_Aksana.Patrubeika_OOP.exe
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\obj\Debug\Lab4_Aksana.Patrubeika_OOP.pdb
