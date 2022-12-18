@@ -1,0 +1,8 @@
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\obj\Debug\OOP_Credit.Card.csproj.AssemblyReference.cache
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\obj\Debug\OOP_Credit.Card.csproj.SuggestedBindingRedirects.cache
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\obj\Debug\OOP_Credit.Card.csproj.CoreCompileInputs.cache
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\bin\Debug\OOP_Credit.Card.exe.config
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\bin\Debug\OOP_Credit.Card.exe
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\bin\Debug\OOP_Credit.Card.pdb
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\obj\Debug\OOP_Credit.Card.exe
+D:\C#\LABS\Lab4_Aksana.Patrubeika_OOP\OOP_Credit.Card\obj\Debug\OOP_Credit.Card.pdb
